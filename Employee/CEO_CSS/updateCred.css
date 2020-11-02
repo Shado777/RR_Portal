@@ -1,0 +1,44 @@
+.navBar {
+  list-style-type: none;
+  margin: 0;
+  padding: 1px;
+  overflow: hidden;
+  background-color: #663897;
+  postition: fixed;
+  top: 0;
+  width: 12%;
+  height: 20%;
+}
+.navBar a{
+  float: left;
+  display: block;
+  color: black;
+  font-size: 150%;
+  font-family:arial;
+  text-align: center;
+  padding: 10px 10px;
+  text-decoration: none;
+}
+.active {
+  color: red;
+  background-color: white;
+}
+.fieldset1 {
+  width: 50%;
+  border-color: black;
+}
+.btnUpdate {
+  background-color:#00ff00;
+  padding: 8px;
+  width: 80px;
+}
+.btnDel{
+  background-color: red;
+  padding: 8px;
+  width: 80px;
+}
+.insert1 {
+  width: 70%;
+  padding: 10px 20px;
+  border: 1px solid #ccc;
+}

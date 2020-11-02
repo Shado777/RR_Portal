@@ -1,0 +1,21 @@
+.exitButton1 {
+    width: 150px;
+    height: 50px;
+    border: solid;
+    border-width: 2px;
+    border-radius: 5px 5px 5px 5px;
+    background-color: red;
+    color: black;
+    text-align: center;
+    font-size: 25px;
+    cursor: pointer;
+}
+.viewBtn {
+  width: 150px;
+  height: auto;
+  background-color: rgb(47, 255, 75);
+  color:black;
+  text-align: center;
+  font-size: 25px;
+  cursor:pointer;
+}

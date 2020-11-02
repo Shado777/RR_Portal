@@ -1,0 +1,30 @@
+.updateButton1 {
+    text-align: center;
+    width: 200px;
+    height: fit-content;
+    border: solid;
+    border-width: 2px;
+    border-radius: 5px 5px 5px 5px;
+    background-color: rgb(47, 255, 75);
+    color: black;
+    padding: 10px 10px;
+    text-align: center;
+    font-size: 16px;
+    margin: 5px;
+    cursor: pointer;
+}
+.delButton1 {
+    text-align: center;
+    width: 200px;
+    height: fit-content;
+    border: solid;
+    border-width: 2px;
+    border-radius: 5px 5px 5px 5px;
+    background-color: red;
+    color: black;
+    padding: 10px 10px;
+    text-align: center;
+    font-size: 16px;
+    margin: 5px;
+    cursor: pointer;
+}

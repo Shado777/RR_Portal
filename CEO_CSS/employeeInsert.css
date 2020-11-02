@@ -1,0 +1,24 @@
+.insertBox {
+  left0;
+  display: block;
+  width: cover;
+  height: 200px;
+}
+.insert1 {
+  width: 50%;
+  padding: 10px 20px;
+  border: 1px solid #ccc;
+}
+.txt1 {
+  font-size: 25px;
+}
+.btn1 {
+  background-color: #00ff00;
+  padding: 8px;
+  width: 75%;
+}
+.btn2{
+  background-color: red;
+  padding: 8px;
+  width: 75%;
+}

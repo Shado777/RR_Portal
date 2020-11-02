@@ -1,0 +1,36 @@
+.updateBtn {
+  background-color:#663897;
+  padding: 8px;
+  width: 70%;
+  font-size:120%;
+}
+.clientBtn {
+  background-color:#663897;
+  padding: 8px;
+  width: 150%;
+  font-size:120%;
+}
+.taskBtn {
+  background-color:#663897;
+  padding: 8px;
+  width: 70%;
+  font-size:120%;
+}
+.quotesBtn {
+  background-color:#663897;
+  padding: 8px;
+  width: 150%;
+  font-size:120%;
+}
+.statsBtn {
+  background-color:#663897;
+  padding: 8px;
+  width: 15%;
+  font-size:120%;
+}
+.exitBtn {
+  background-color:red;
+  padding: 8px;
+  width: 15%;
+  font-size:120%;
+}

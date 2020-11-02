@@ -1,0 +1,220 @@
+body {
+    background-color: #6699cc;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    font-size: 48px;
+    margin: 5px;
+}
+
+h2 {
+    color: black;
+    text-align: center;
+    font-size: 26px;
+    margin: 5px;
+}
+
+p {
+    font-size: 20px;
+}
+
+.flex-containerBoxes {
+    display: flex;
+    margin: 10px 40px;
+    padding: 10px;
+}
+
+.flex-containerText {
+    position: relative;
+    left: 35%;
+    width: 50%;
+    display: flex;
+    margin: 5px;
+    padding: 5px;
+}
+
+.flex-containerSum {
+    position: relative;
+    left: 35%;
+    width: 70%;
+    display: flex;
+    margin: 5px;
+    padding: 5px;
+}
+
+.flex-tableText {
+    position: relative;
+    left: 35%;
+    width: 50%;
+    display: flex;
+    margin: 5px;
+    padding: 5px;
+}
+
+.button {
+    width: fit-content;
+    height: fit-content;
+    border: solid;
+    border-width: 2px;
+    border-radius: 5px 5px 5px 5px;
+    background-color: rgb(47, 255, 75);
+    color: black;
+    padding: 15px 46px;
+    text-align: center;
+    font-size: 24px;
+    margin: 42px 20px;
+    cursor: pointer;
+}
+
+.exitButton {
+    width: 80px;
+    height: fit-content;
+    border: solid;
+    border-width: 2px;
+    border-radius: 5px 5px 5px 5px;
+    background-color: red;
+    color: black;
+    padding: 15px 46px;
+    text-align: center;
+    font-size: 15px;
+    margin: 5px 45%;
+    cursor: pointer;
+}
+
+.updateButton {
+    text-align: center;
+    width: fit-content;
+    height: fit-content;
+    border: solid;
+    border-width: 2px;
+    border-radius: 5px 5px 5px 5px;
+    background-color: rgb(47, 255, 75);
+    color: black;
+    padding: 5px 5px;
+    text-align: center;
+    font-size: 16px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.deleteButton {
+    text-align: center;
+    width: fit-content;
+    height: fit-content;
+    border: solid;
+    border-width: 2px;
+    border-radius: 5px 5px 5px 5px;
+    background-color: red;
+    color: black;
+    padding: 5px 5px;
+    text-align: center;
+    font-size: 16px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.cancelButton {
+    text-align: center;
+    width: 170px     ;
+    height: fit-content;
+    border: solid;
+    border-width: 2px;
+    border-radius: 5px 5px 5px 5px;
+    background-color: orange;
+    color: black;
+    padding: 5px 5px;
+    text-align: center;
+    font-size: 16px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.viewButton {
+    text-align: center;
+    width: 90px     ;
+    height: fit-content;
+    border: solid;
+    border-width: 2px;
+    border-radius: 5px 5px 5px 5px;
+    background-color: rgb(0, 255, 98);
+    color: black;
+    padding: 5px 5px;
+    text-align: center;
+    font-size: 16px;
+    margin: 5px 60px 5px 20px;
+    cursor: pointer;
+}
+
+.box {
+    padding: 10px;
+    display: block;
+    width: 90%;
+    height: 120px;
+    border-style: solid;
+}
+
+.box1 {
+    align-content: center;
+    padding: 5px;
+    display: block;
+    width: fit-content;
+    height: fit-content;
+}
+
+.nameDisplay {
+    padding: 5px;
+    width: 30%;
+    height: fit-content;
+}
+
+.searchTag {
+    padding: 5px;
+    width: fit-content;
+    height: fit-content;
+}
+
+.input[type=text] {
+    padding: 6px;
+    margin-top: 8px;
+    font-size: 17px;
+    border: none;
+}
+
+.search-container {
+    float: right;
+}
+
+.search-container button {
+    float: right;
+    padding: 6px 10px;
+    margin-top: 8px;
+    margin-right: 16px;
+    background: #ddd;
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+}
+
+.updateTable {
+    width: 70%;
+}
+
+.policyTable {
+    width: 60%;
+}
+
+.clientTable{
+
+    width: 40%;
+}
+
+.summaryTable{
+
+    width: 40%;
+}
+
+div.a {
+    text-align: center;
+  }
